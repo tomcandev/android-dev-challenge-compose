@@ -30,7 +30,7 @@ import com.example.androiddevchallenge.ui.screen.DetailsScreen
 import com.example.androiddevchallenge.ui.screen.MainScreen
 import com.example.androiddevchallenge.ui.theme.MyTheme
 
-class MainActivity: AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
