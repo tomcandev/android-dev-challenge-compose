@@ -6,8 +6,8 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-Marvel Universe is minimized in my pets
-This is my first application with Jetpack Compose! I'm so excited to try it
++ Marvel Universe is minimized in my pets
++ This is my first application with Jetpack Compose! I'm so excited to try it.
 #AndroidDevChallenge
 
 ## :bulb: Motivation and Context
